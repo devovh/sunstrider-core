@@ -1,7 +1,7 @@
-//
+
 #include "../../playerbot.h"
 #include "CheckMailAction.h"
-
+#include "Mail.h"
 #include "../../GuildTaskMgr.h"
 using namespace ai;
 

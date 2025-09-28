@@ -21,6 +21,7 @@
 #include "CharacterCache.h"
 #include "SpellAuraEffects.h"
 #include "SpellHistory.h"
+#include "Bag.h"
 
 using namespace ai;
 using namespace std;

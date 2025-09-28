@@ -4,7 +4,7 @@
 #include "CheckMountStateAction.h"
 #include "Unit.h"
 #include "SpellAuraEffects.h"
-
+#include "Bag.h"
 using namespace ai;
 
 bool CheckMountStateAction::Execute(Event event)

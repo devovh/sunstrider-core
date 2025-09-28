@@ -1,7 +1,7 @@
 
 #include "../../playerbot.h"
 #include "StatsValues.h"
-
+#include "Bag.h"
 using namespace ai;
 
 uint8 HealthValue::Calculate()

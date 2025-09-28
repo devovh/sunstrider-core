@@ -1,6 +1,7 @@
 
 #include "../../playerbot.h"
 #include "StatsAction.h"
+#include "Bag.h"
 
 
 using namespace ai;

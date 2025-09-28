@@ -2,7 +2,7 @@
 #include "../../playerbot.h"
 #include "InventoryAction.h"
 #include "TradeData.h"
-
+#include "Bag.h"
 #include "../values/ItemCountValue.h"
 
 using namespace ai;
